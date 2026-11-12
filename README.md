@@ -1,4 +1,34 @@
+👋 Hi, I'm Mohit Srivastava
+Full Stack Developer | AI Integration Enthusiast | Problem Solver
 
+I'm a passionate developer from India 🇮🇳 who enjoys building scalable web applications and exploring the potential of Artificial Intelligence.
+
+Currently focused on Full Stack Development and AI-powered application development, I enjoy turning ideas into practical solutions using modern technologies.
+🚀 What I'm Doing
+
+    🔭 Building full-stack web applications and exploring real-world development challenges.
+
+    🌱 Exploring Generative AI, LLMs, LangChain, LangGraph, and RAG.
+
+    💻 Strengthening my problem-solving skills through Data Structures & Algorithms in Java.
+
+    🤝 Open to collaborating on innovative Full Stack and AI-powered projects.
+
+    🎯 Focused on writing clean, maintainable code and understanding software engineering best practices.
+
+💻 Tech Stack & Interests
+
+    Languages: Java, JavaScript, C, Python
+
+    Frontend: HTML, CSS, JavaScript, React.js
+
+    Backend: Node.js, Express.js, REST APIs
+
+    Database: MongoDB, MySQL
+
+    AI Development: LLMs, LangChain, LangGraph, RAG, AI Integration
+
+    Core CS: Data Structures & Algorithms, OOP, DBMS, Operating Systems
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-kumar-sriwastava-011a55387) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohit Kumar Sriwastava) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohit67621@gmail.com) 
 
